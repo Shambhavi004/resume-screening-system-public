@@ -163,19 +163,6 @@ Resume-Screening-System
 └── README.md
 ```
 
----
-
-## Deployment
-
-### Frontend Deployment
-
-https://resume-screening-system-sage.vercel.app/
-
-### Backend Deployment
-
-https://resume-screening-system-xkxq.onrender.com/
-----
-
 ## Author
 
 **Shambhavi Goswami**
